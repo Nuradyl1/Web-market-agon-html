@@ -1,0 +1,23 @@
+
+@media screen and (max-width: 900px) {
+
+    .intro {
+      flex-direction: column;
+    }
+    .intro_text_block {
+      text-align: center;
+    }
+    .intro_content_block {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .intro_btns {
+      justify-content: center;
+    }
+
+    .intro_btns button {
+      padding: 16px 26px;
+      font-size: 20px;
+    }
+}

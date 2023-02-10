@@ -1,0 +1,13 @@
+@media screen and (max-width: 900px) {
+    .categories-block {
+        display: grid;
+        grid-template-columns: 1fr;
+        /* align-items: center; */
+        /* width: 100vw; */
+    }
+
+    .categories-title {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
